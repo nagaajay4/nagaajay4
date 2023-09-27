@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Naga Ajay K</h1>
-<h3 align="center">A professional full-stack developer from India, I just want to add a little value to software products so that people life will become easy.</h3>
+<h3 align="center"> I am a professional full-stack developer from India passionate about enhancing software products to simplify and improve people's lives through innovative solutions and cutting-edge technology.</3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaajay4&label=Profile%20views&color=0e75b6&style=flat" alt="nagaajay4" /> </p>
