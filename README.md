@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my github profile](https://github.com/nagaajay4/nagaajay4)
 
-- 🌱 I’m currently learning **AZ-900: Microsoft Azure Fundamentals**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **different projects**
 
